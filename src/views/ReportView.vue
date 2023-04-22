@@ -4,7 +4,6 @@
       匯出PDF
     </button>
   
-    
     <div id="pdfDom">
       <div class="px-3 flex text-xl">
         <p class="pr-5">頭痛日誌</p>
